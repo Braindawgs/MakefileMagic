@@ -2,5 +2,5 @@
 #include <stdio.h>
 void bok()
 {
-	printf("BokBok123\r\n");
+	printf("BokBok\r\n");
 }
